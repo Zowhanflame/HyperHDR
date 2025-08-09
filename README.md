@@ -1,4 +1,4 @@
-## About 
+## About - tehe
 
 Open source ambient lighting implementation for television and music sets based on the video and audio streams analysis. Focused on stability while ensuring performance and quality. Single and multi-threaded video processing optimization for **Windows**, **macOS** (x64/arm64: M1, M2) and **Linux x64 & ARM** (Raspberry Pi and others).
   
